@@ -1,0 +1,4 @@
+.DS_Store
+android-tproxy/libs/
+android-tproxy/obj/
+.build
